@@ -19,7 +19,7 @@
 
 ### 👨‍💻 Mühendislik Felsefem
 
-Modern mobil uygulama ekosisteminde kod yazmanın ötesinde; **donanım düzeyinde güvenlik, çevrimdışı çalışabilirlik (offline-first) ve performans odaklı mimariler** inşa etmeye odaklanıyorum. Native Android ve Flutter ile geliştirdiğim sistemlerde *Clean Architecture* prensiplerini tavizsiz uyguluyor; WebRTC, sensör füzyonu ve Multimodal LLM gibi ileri seviye teknolojileri production-grade (canlıya çıkmaya hazır) standartlarda entegre ediyorum.
+Ankara Üniversitesi'nde Bilgisayar Mühendisliği eğitimime devam ederken; modern mobil uygulama ekosisteminde kod yazmanın ötesinde, donanım düzeyinde güvenlik, çevrimdışı çalışabilirlik (offline-first) ve performans odaklı mimariler inşa etmeye odaklanıyorum. Native Android ve Flutter ile geliştirdiğim sistemlerde Clean Architecture prensiplerini uyguluyor; WebRTC ve Multimodal LLM gibi teknolojileri production-grade standartlarda entegre ediyorum.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,java,python,firebase,supabase,postgres,sqlite,git,linux,postman,docker" alt="Tech Stack" />
