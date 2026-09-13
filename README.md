@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Furkan%20Çalık&fontSize=50&fontAlignY=35&desc=Mobile%20Software%20Engineer&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/furkankisisel" target="_blank">
+    <a href="https://linkedin.com/in/furkan-çalık" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:furkancalk325@gmail.com">
