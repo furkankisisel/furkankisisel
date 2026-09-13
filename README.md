@@ -1,145 +1,77 @@
 <div align="center">
-  <h1>Hi, I'm Furkan Çalık 👋</h1>
-  <p>
-    <strong>Mobile Application Engineer & Computer Engineering Student</strong><br>
-    <em>Specializing in Modern Native Android (Kotlin / Compose) and Cross-Platform (Flutter) Systems</em>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Furkan%20Çalık&fontSize=50&fontAlignY=35&desc=Mobile%20Software%20Engineer&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
 
-  <p>
-    <a href="https://linkedin.com/in/furkankisisel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:furkancalk325@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/Focus-Mobile%20Architecture%20%26%20Security-black?style=for-the-badge" alt="Focus" />
-  </p>
-
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Native+Android+(Kotlin+%2B+Jetpack+Compose);Cross-Platform+Mobile+(Flutter+%26+Dart);Hardware-backed+E2EE+%26+WebRTC;Clean+Architecture+%26+Offline-First" alt="Typing SVG" />
+  <p align="center">
+    <a href="https://linkedin.com/in/furkankisisel" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:furkancalk325@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Architectures;Native+Android+(Kotlin+%2B+Compose);Cross-Platform+Flutter+Mastery;Offline-First+%26+E2EE+Secure+Systems;AI-Powered+Mobile+Experiences" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 Mühendislik Felsefem
 
-I am a Computer Engineering student focused on building robust, offline-first, and high-performance mobile systems. My engineering philosophy revolves around **Clean Architecture**, **reactive state patterns (StateFlow, Provider)**, and **hardware-backed security standards**.
+Modern mobil uygulama ekosisteminde kod yazmanın ötesinde; **donanım düzeyinde güvenlik, çevrimdışı çalışabilirlik (offline-first) ve performans odaklı mimariler** inşa etmeye odaklanıyorum. Native Android ve Flutter ile geliştirdiğim sistemlerde *Clean Architecture* prensiplerini tavizsiz uyguluyor; WebRTC, sensör füzyonu ve Multimodal LLM gibi ileri seviye teknolojileri production-grade (canlıya çıkmaya hazır) standartlarda entegre ediyorum.
 
-- 📱 **Native Android:** Modern Android Development (MAD) with Jetpack Compose, Coroutines & Flow, Dagger Hilt, Room, and WebRTC.
-- ⚡ **Cross-Platform:** Production-grade Flutter architectures, custom render pipelines, multimodal LLM pipelines, and sensor integrations.
-- 🔐 **Security & Cryptography:** Zero-knowledge client encryption, AndroidKeyStore hardware integration, and hybrid RSA-OAEP / AES-GCM data channels.
-
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,firebase,supabase,postgres,sqlite,git,linux,postman,docker" alt="Tech Stack" />
-</p>
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | Kotlin, Dart, Java, Python, SQL |
-| **Mobile Platforms** | Native Android (Jetpack Compose, Coroutines, Flow), Flutter (Provider, Multi-Engine) |
-| **Architecture & Core** | Clean Architecture, MVVM, Repository Pattern, Dagger Hilt, Offline-First (Room, SQLite) |
-| **Security & Media** | AndroidKeyStore, RSA-OAEP + AES-GCM (E2EE), WebRTC P2P, CameraX, Sensor Fusion |
-| **Cloud & Backend** | Firebase (Auth, Firestore, Cloud Functions, FCM), Supabase, REST APIs |
-| **AI Integration** | Google Gemini 2.5 Flash, Groq Llama 3.3, Multimodal Prompt Engineering |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,java,python,firebase,supabase,postgres,sqlite,git,linux,postman,docker" alt="Tech Stack" />
+</div>
 
 ---
 
-### 🌟 Featured Engineering Projects
+### 🚀 Öne Çıkan Mühendislik Projeleri
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔒 <a href="https://github.com/furkankisisel/misal">Misal — Secure E2EE Messaging & WebRTC</a></h3>
-      <p>Production-grade native Android instant messaging and P2P video/audio calling engine.</p>
-      <ul>
-        <li><strong>Architecture:</strong> Modern Android (MAD), Jetpack Compose, Clean Architecture + MVVM, Dagger Hilt.</li>
-        <li><strong>Security:</strong> Hardware-backed <code>AndroidKeyStore</code> running hybrid RSA-OAEP (2048-bit) + AES-GCM (256-bit) encryption.</li>
-        <li><strong>VoIP:</strong> Low-latency WebRTC peer-to-peer signaling with Firestore SDP exchanges and FCM-triggered Foreground Services.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebRTC-P2P-FF6F00?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/furkankisisel/mira">Mira — Circadian Life & Habit Intelligence</a></h3>
-      <p>Offline-first personal wellness ecosystem driven by biological clock solvers and LLMs.</p>
-      <ul>
-        <li><strong>Biorhythm Engine:</strong> Mathematical circadian solver dynamically calculating cognitive focus and energy slots.</li>
-        <li><strong>Anti-Cheat:</strong> Client-side streak integrity verification protecting XP from system clock tampering.</li>
-        <li><strong>AI & Cloud:</strong> Groq Llama 3.3 conversational onboarding with Cloud Firestore real-time social competition hub.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io# Furkan Çalık
+#### 🔐 [Misal — E2EE Real-Time Messaging & WebRTC Calling](https://github.com/furkankisisel/misal)
+Modern Android Development (MAD) pratikleriyle sıfırdan geliştirilmiş, gizlilik odaklı anlık mesajlaşma ve VoIP arama platformu[cite: 4].
+> **Mühendislik Başarıları:**
+> - **Donanım Destekli Şifreleme:** `AndroidKeyStore` entegrasyonu ile asimetrik (RSA-OAEP 2048-bit) ve simetrik (AES-GCM 256-bit) hibrit uçtan uca şifreleme (E2EE) mimarisi kurgulandı[cite: 4].
+> - **WebRTC P2P İletişim:** Cloud Firestore destekli SDP sinyalleşmesi ve ICE adayı senkronizasyonu ile düşük gecikmeli ses/video VoIP altyapısı entegre edildi[cite: 4].
+> - **Arka Plan Süreçleri:** Uygulama kapalıyken bile çağrıları yakalayan yüksek öncelikli FCM ve Foreground Service (`shortService`) mimarisi tasarlandı[cite: 4].
+> - **Tech Stack:** Kotlin 2.0, Jetpack Compose, Room, Dagger Hilt, MVVM, Clean Architecture[cite: 4].
 
-**Mobile Application Developer | Computer Engineering Student**  
-Ankara, Türkiye • [GitHub](https://github.com/furkankisisel)[cite: 1, 2] • [LinkedIn](https://linkedin.com/in/furkankisisel)[cite: 2] • [furkankisisel@gmail.com](mailto:furkankisisel@gmail.com)[cite: 2]
+#### 🧬 [Mira — Circadian Life & Habit Intelligence](https://github.com/furkankisisel/mira)
+Kullanıcının biyolojik saatiyle (sirkadiyen ritim) senkronize çalışan, çevrimdışı (offline-first) yaşam yönetimi ve yapay zeka koçluk ekosistemi[cite: 3].
+> **Mühendislik Başarıları:**
+> - **Biyoritim Hesaplama Motoru:** Sabit bildirimler yerine uyku/uyanıklık döngüsüne göre optimum `Focus`, `Energy` ve `Reflection` pencerelerini dinamik hesaplayan matematiksel algoritma tasarlandı[cite: 3].
+> - **Anti-Cheat Doğrulama:** İstemci tarafı sistem saati manipülasyonlarını engelleyen ve serileri (streak) kriptografik damgalarla koruyan oyunlaştırma (gamification) mekanikleri uygulandı[cite: 3].
+> - **Derin LLM Entegrasyonu:** Groq Llama 3.3 entegrasyonu ile dinamik onboarding ve doğal dilde habit koçluğu sağlandı[cite: 3].
+> - **Tech Stack:** Flutter 3.24+, Feature-First Modularity, flutter_background_service, In-App Purchase[cite: 3].
 
----
+#### 👁️ [Eloa — Multimodal AI Morphological Analysis](https://github.com/furkankisisel/eloa)
+Geleneksel İlmi Sima ve morfoloji analizlerini Google Gemini 2.5 Flash görüntü işleme yetenekleriyle harmanlayan yeni nesil analiz uygulaması[cite: 2].
+> **Mühendislik Başarıları:**
+> - **Görüntü İşleme ve Kamera Katmanı:** Kullanıcı hatalarını sıfıra indirmek için canlı kamera akışı üzerine saydam el geometrisi overlay'leri (kılavuz) yerleştirildi[cite: 2].
+> - **Defansif Prompt Mimarisi:** Multimodal yapay zeka çıktılarının uygulama içinde çökme yaratmaması için yapılandırılmış JSON deserialization pipeline'ı kuruldu[cite: 2].
+> - **Monetizasyon:** `in_app_purchase` üzerinden Apple StoreKit ve Google Play Billing entegrasyonlarıyla güvenli mikro ödeme sistemi kodlandı[cite: 2].
+> - **Tech Stack:** Flutter, Google Gemini 2.5 Flash API, Groq Llama 3.3, Firebase Auth[cite: 2].
 
-### 👨‍💻 Hakkımda
-
-Modern mobil uygulama ekosisteminde **Clean Architecture**, **Modern Android Development (MAD)** ve **reaktif mimariler** odağında uçtan uca yazılımlar geliştiren bir Bilgisayar Mühendisliği öğrencisiyim[cite: 2, 4]. 
-
-Native Android tarafında **Kotlin** ve **Jetpack Compose** ile donanım destekli kriptografi ve WebRTC gerçek zamanlı iletişim sistemleri geliştirirken[cite: 4]; cross-platform tarafta **Flutter** ile multimodal üretken yapay zeka (LLM/VLM), sensör füzyonu ve offline-first sistem mimarilerini hayata geçiriyorum[cite: 1, 2, 3].
+#### 🧭 [Prayly — Offline-First Spiritual Companion](https://github.com/furkankisisel/prayly)
+Nostaljik retro pixel-art estetiğini, sensör doğruluğu ve modern yazılım mimarisiyle birleştiren offline-first günlük asistanı[cite: 1].
+> **Mühendislik Başarıları:**
+> - **Sensör Füzyonu:** Cihazın manyetometre ve ivmeölçer verileri alınarak, iğne titremelerini engelleyen özel bir dampening (sönümleme) filtresiyle hassas pusula mekaniği yazıldı[cite: 1].
+> - **Ağ Esnekliği (Resilience):** Aladhan API üzerinden çekilen veriler anında SQLite üzerinde önbelleğe alınarak sıfır ağ bağlantısında bile %100 işlevsellik sağlandı[cite: 1].
+> - **Sıfır Hata Prensibi:** GitHub Actions ile CI/CD süreçleri kurularak her PR'da otomatik statik kod analizi ve unit testler koşturuldu[cite: 1].
+> - **Tech Stack:** Flutter, sqflite, flutter_compass, timezone, i18n (7 dil)[cite: 1].
 
 ---
 
-### 🛠️ Yetkinlikler & Teknoloji Yığını
+<div align="center">
+  <h3>📊 GitHub İstatistikleri</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=furkankisisel&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=A6ADBB" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkankisisel&theme=transparent&hide_border=true&title_color=2563EB&ring_color=2563EB&fire_color=2563EB&text_color=A6ADBB" alt="GitHub Streak" width="48%" />
+</div>
 
-* **Diller & Çatılar:** Kotlin[cite: 4], Dart[cite: 1, 2, 3], Flutter[cite: 1, 2, 3], Jetpack Compose[cite: 4], Android SDK[cite: 4]
-* **Mimari & Durum Yönetimi:** Clean Architecture[cite: 1, 3, 4], MVVM[cite: 4], Feature-First Modularity[cite: 1, 3], Provider[cite: 1, 2, 3], Unidirectional Data Flow (UDF)[cite: 4]
-* **Güvenlik & Kriptografi:** Android KeyStore[cite: 4], E2EE (RSA-OAEP 2048-bit + AES-GCM 256-bit)[cite: 4], Zero-Leak Secrets (`--dart-define`)[cite: 2, 3]
-* **Veritabanı & Çevrimdışı (Offline-First):** Room Database[cite: 4], SQLite (`sqflite`)[cite: 1], Shared Preferences[cite: 1, 2, 3], Secure Storage[cite: 3]
-* **Bulut & Backend Entegrasyonları:** Firebase (Auth, Firestore, Cloud Storage, FCM, Cloud Functions)[cite: 2, 3, 4], WebRTC (P2P Audio/Video)[cite: 4], REST APIs[cite: 1]
-* **Yapay Zeka (AI) & Multimodal Modeller:** Google Gemini 2.5 Flash Multimodal Vision[cite: 2], Groq / Llama 3.3[cite: 2, 3], Prompt Engineering & Yapılandırılmış JSON Deserialization[cite: 2]
-* **Mobil Donanım & Sensörler:** Android Kamera & Custom Viewfinder Overlays[cite: 2], Manyetometre/İvmeölçer Sensör Füzyonu[cite: 1], Geolocator[cite: 1, 4], Arka Plan Servisleri (`flutter_background_service`, Foreground Services)[cite: 3, 4]
-* **Araçlar & Kalite Güvencesi:** Git/GitHub[cite: 1, 2, 3, 4], GitHub Actions CI/CD[cite: 1, 3], Static Code Analysis[cite: 1, 2, 3], Unit & Widget Testing[cite: 1, 2, 3]
+<br>
 
----
-
-### 🚀 Öne Çıkan Projeler
-
-#### **Misal — E2EE Real-Time Messaging & WebRTC Calling Platform**
-*Native Android | Kotlin, Jetpack Compose, WebRTC, Firebase, Room, Dagger Hilt, Android KeyStore*[cite: 4]
-
-* **Donanım Destekli Uçtan Uca Şifreleme (E2EE):** `AndroidKeyStore` içinde barındırılan RSA-OAEP 2048-bit anahtarlarla oturum anahtarı değişimi ve AES-GCM 256-bit ile mesaj/medya şifrelemesi sağlayan kriptografik mimari tasarlandı[cite: 4].
-* **WebRTC P2P Ses & Görüntülü Arama:** Cloud Firestore tabanlı SDP sinyalleşmesi ve ICE adayı senkronizasyonu ile çalışan düşük gecikmeli WebRTC sesli/görüntülü görüşme kanalı kuruldu[cite: 4].
-* **Kesintisiz VoIP & Arka Plan Entegrasyonu:** Uygulama kapalıyken bile çağrıları yakalayan yüksek öncelikli FCM ve Foreground Service (`shortService`) mimarisi kurgulandı[cite: 4].
-* **Offline-First & SSOT:** Mesaj akışında tek gerçeklik kaynağı (SSOT) olarak Room veritabanı reaktif `Flow` yapılarıyla entegre edildi[cite: 4].
-
-#### **Mira — Circadian Life & Habit Intelligence System**
-*Cross-Platform | Flutter, Clean Architecture, Groq Llama 3.3, Firebase, Background Services*[cite: 3]
-
-* **Sirkadiyen Biyoritim Zekası:** Sabit saatli bildirimler yerine kullanıcının biyolojik uyku-uyanıklık döngüsüne göre optimum odak ve enerji pencerelerini (`Focus`, `Energy`, `Light`, `Reflection`) hesaplayan matematiksel analiz motoru geliştirildi[cite: 3].
-* **Anti-Cheat Alışkanlık Takibi:** İstemci tarafı sistem saati manipülasyonlarını engelleyen geçmişe dönük zaman damgası doğrulama mantığı ve zincir koruma mekanizmaları uygulandı[cite: 3].
-* **Çok Yönlü Odaklanma Modülleri:** Arka planda kesintisiz çalışan (`flutter_background_service`) Pomodoro, geri sayım ve özel zamanlayıcı modülleri kodlandı[cite: 3].
-* **15+ Dil & Global Lokalizasyon:** Kapsamlı ARB çeviri altyapısı ile global ölçekte çok dilli destek sağlandı[cite: 3].
-
-#### **Eloa — Multimodal AI Esoteric & Morphological Analysis**
-*Cross-Platform | Flutter, Google Gemini 2.5 Flash, Groq Llama 3.3, Firebase Auth, In-App Purchase*[cite: 2]
-
-* **Multimodal Görüntü Analizi:** Gemini 2.5 Flash modeline kamera katmanından alınan el ve yüz görselleri beslenerek biyometrik morfoloji analizi sağlandı[cite: 2].
-* **Hatasız JSON Deserialization:** LLM yanıtlarının model tarafında kırılmadan güvenle parse edilmesi için yapılandırılmış (structured output) prompt mimarisi kurgulandı[cite: 2].
-* **Özel Kamera Kılavuzları:** Kullanıcı kaynaklı çekim hatalarını minimize etmek amacıyla canlı kamera akışı üzerine saydam el geometrisi overlay'leri yerleştirildi[cite: 2].
-* **Uygulama İçi Satın Alma:** Google Play Billing ve StoreKit API'leri (`in_app_purchase`) üzerinden jeton ve abonelik modeli entegre edildi[cite: 2].
-
-#### **Prayly — Pixel-Art Spiritual Companion & Mosque Diary**
-*Cross-Platform | Flutter 3.9+, Feature-First Clean Architecture, SQLite, Sensor Fusion, i18n*[cite: 1]
-
-* **Sensör Füzyonlu Kıble Pusulası:** Cihazın manyetometre ve ivmeölçer verileri `flutter_compass` üzerinden çekilerek açısal interpolasyon ve titreme önleyici (dampening) filtreyle kararlı kıble doğrultusu sağlandı[cite: 1].
-* **Çevrimdışı Çalışma (Offline-First):** Aladhan API çağrıları yerel önbellek katmanıyla desteklenerek internet erişimi olmadığında bile anında yüklenen kesintisiz veri akışı sağlandı[cite: 1].
-* **Yerel Cami Günlüğü & Gizlilik:** SQLite (`sqflite`) kullanılarak harici sunucuya ihtiyaç duymadan, sıfır veri takibiyle fotoğraf ve ziyaret kaydı tutulabilen yerel depolama kuruldu[cite: 1].
-* **Özel Piksel UI Motoru & 7 Dil:** Retro piksel sanat stilinde özel UI bileşen kiti, AMOLED koyu mod ve 7 dilli ARB altyapısı geliştirildi[cite: 1].
-
----
-
-### 🏛️ Mühendislik Prensipleri
-
-* **Sıfır Hata / Sıfır Uyarı Standartı:** CI/CD süreçlerinde sıkı `flutter_lints` ve statik kod analiz testlerinden taviz vermeyen geliştirme disiplini[cite: 1, 2, 3].
-* **API Güvenliği:** Versiyon kontrol sistemlerine API anahtarı veya gizli yapılandırma sızmasını engelleyen `--dart-define` ve ortam değişkeni izolasyonu[cite: 2, 3].
-* **Defansif Ağ & Donanım Mimarisi:** GPS izinleri reddedildiğinde varsayılan koordinat yedekleri veya ağ kopmalarında otomatik devreye giren yerel önbellek akışları[cite: 1, 2].
+<div align="center">
+  <i>"Karmaşık sistemleri basit, güvenli ve performanslı arayüzlerin arkasına gizlemeyi seviyorum."</i>
+</div>
