@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Furkan%20Çalık&fontSize=50&fontAlignY=35&desc=Mobile%20Software%20Engineer&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/furkan-çalık" target="_blank">
+    <a href="https://linkedin.com/in/furkancalik" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:furkancalk325@gmail.com">
@@ -11,7 +11,7 @@
   </p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Architectures;Native+Android+(Kotlin+%2B+Compose);Cross-Platform+Flutter+Mastery;Offline-First+%26+E2EE+Secure+Systems;AI-Powered+Mobile+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Architectures;Native+Android+(Kotlin+%2B+Compose);Cross-Platform+Flutter+Mastery;Offline-First+%26+E2EE+Secure+Systems;AI-Powered+Mobile+Experiences;Medical+Hardware+Integration" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,7 +19,7 @@
 
 ### 👨‍💻 Mühendislik Felsefem
 
-Ankara Üniversitesi'nde Bilgisayar Mühendisliği eğitimime devam ederken; modern mobil uygulama ekosisteminde kod yazmanın ötesinde, donanım düzeyinde güvenlik, çevrimdışı çalışabilirlik (offline-first) ve performans odaklı mimariler inşa etmeye odaklanıyorum. Native Android ve Flutter ile geliştirdiğim sistemlerde Clean Architecture prensiplerini uyguluyor; WebRTC ve Multimodal LLM gibi teknolojileri production-grade standartlarda entegre ediyorum.
+Ankara Üniversitesi'nde Bilgisayar Mühendisliği eğitimime devam ederken; modern yazılım ekosisteminde kod yazmanın ötesinde, donanım düzeyinde güvenlik, çevrimdışı çalışabilirlik (offline-first) ve performans odaklı mimariler inşa etmeye odaklanıyorum. Native Android, Flutter ve JavaFX ile geliştirdiğim sistemlerde Clean Architecture ve MVC prensiplerini tavizsiz uyguluyor; WebRTC, Multimodal LLM ve medikal donanım haberleşmesi gibi ileri seviye teknolojileri production-grade standartlarda entegre ediyorum.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,java,python,firebase,supabase,postgres,sqlite,git,linux,postman,docker" alt="Tech Stack" />
@@ -36,6 +36,14 @@ Modern Android Development (MAD) pratikleriyle sıfırdan geliştirilmiş, gizli
 > - **WebRTC P2P İletişim:** Cloud Firestore destekli SDP sinyalleşmesi ve ICE adayı senkronizasyonu ile düşük gecikmeli ses/video VoIP altyapısı entegre edildi[cite: 4].
 > - **Arka Plan Süreçleri:** Uygulama kapalıyken bile çağrıları yakalayan yüksek öncelikli FCM ve Foreground Service (`shortService`) mimarisi tasarlandı[cite: 4].
 > - **Tech Stack:** Kotlin 2.0, Jetpack Compose, Room, Dagger Hilt, MVVM, Clean Architecture[cite: 4].
+
+#### 🎧 [Clinical Audiometer & Diagnostic System](https://github.com/furkankisisel/audiometer-clinical-system)
+Tıbbi standartlara (ISO 8253-1 ve IEC 60645-1) uygun, donanım simülasyonlu klinik işitme testi cihazı ve JavaFX tabanlı masaüstü teşhis yazılımı[cite: 5].
+> **Mühendislik Başarıları:**
+> - **Donanım-Yazılım Entegrasyonu:** `jSerialComm` kullanılarak, Proteus VSM üzerinden gelen asenkron hasta donanım sinyallerini UI thread'ini bloklamadan işleyen kesinti (interrupt) tabanlı seri köprü kuruldu[cite: 5].
+> - **Gerçek Zamanlı Render Motoru:** Klinik odyogramları (sağ/sol kulak test sonuçları) tıbbi standartlara göre sıfır gecikmeyle çizen yüksek performanslı JavaFX `Canvas` motoru kodlandı[cite: 5].
+> - **Mimari ve Güvenilirlik:** Sıkı bir Layered MVC mimarisi üzerine inşa edilen sistemin, Hughson-Westlake algoritma geçişleri ve veri parse işlemleri JUnit 5 ile test edilerek yüksek güvenilirliğe ulaştırıldı[cite: 5].
+> - **Tech Stack:** Java 21, JavaFX, MVC, jSerialComm, JUnit 5, Proteus VSM[cite: 5].
 
 #### 🧬 [Mira — Circadian Life & Habit Intelligence](https://github.com/furkankisisel/mira)
 Kullanıcının biyolojik saatiyle (sirkadiyen ritim) senkronize çalışan, çevrimdışı (offline-first) yaşam yönetimi ve yapay zeka koçluk ekosistemi[cite: 3].
